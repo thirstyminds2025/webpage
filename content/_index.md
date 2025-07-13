@@ -1,17 +1,14 @@
 ---
-title: My Site
+title: ThirstyMinds
 toc: false
 ---
 
-This is the landing page.
+Welcome to ThirstyMinds!
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="guidelines" title="Guidelines" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
