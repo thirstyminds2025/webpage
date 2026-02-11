@@ -5,7 +5,7 @@
     <description>Recent content on ThirstyMinds</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,34 @@
       
       
     
+    
+    <item>
+      <title>How GNU/Linux make students better engineers?</title>
+      <link>//localhost:1313/blog/betterstudents/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/betterstudents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;How a simple change of using linux as daily driver can change students perspective in engineering&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You won&amp;rsquo;t be scared of terminal and terminal tools. You don&amp;rsquo;t have dependencies with GUI tools/editors to engineer your product.&lt;/li&gt;
+&lt;li&gt;Increases your problem-solving skills when you tackle your system&amp;rsquo;s software installations and customizations.&lt;/li&gt;
+&lt;li&gt;It breaks you out from the vendor lock-in software.&lt;/li&gt;
+&lt;li&gt;Let you make mistakes and more importantly fix those mistakes by yourself.&lt;/li&gt;
+&lt;li&gt;Since GNU/Linux don&amp;rsquo;t have a licensing/subscription cost, it is affordable for students without sacrificing the quality of software to work with.&lt;/li&gt;
+&lt;li&gt;Teaches you how software works, how it interacts with OS in a fundamental way without masking them with unnecessary wrappers like proprietary software does.&lt;/li&gt;
+&lt;li&gt;Let you compile your own software from code and gives you the necessary tools for the same for free.&lt;/li&gt;
+&lt;li&gt;Fundamentals first approach, Keep It Short and Simple philosophy in your development and workflow.&lt;/li&gt;
+&lt;li&gt;Exposure to more Open Source tools via Linux helps you find projects driven by communities.&lt;/li&gt;
+&lt;li&gt;You can even download the Linux kernel code and dissect it to learn more about kernels and operating systems.&lt;/li&gt;
+&lt;li&gt;Certain Linux distros teach you how to put together your system instead of defaulting to GUI.&lt;/li&gt;
+&lt;li&gt;Minimal resources needed for running Linux can help you to revive your old computers so students who are economically challenged can still get a few-years-old hardware and still be able to work on it with Linux.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The list goes on and on&amp;hellip; Just to keep it short and simple, I mentioned only major points.&lt;/p&gt;
+      </description>
+    </item>
     
     <item>
       <title>Why Foss ?</title>
