@@ -1,0 +1,107 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThirstyMinds – Web Development</title>
+    <link>//localhost:1313/tags/web-development/</link>
+    <description>Recent content in Web Development on ThirstyMinds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="//localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>JavaScript Resources</title>
+      <link>//localhost:1313/learning-resources/javascript/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/learning-resources/javascript/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Complete collection of JavaScript learning resources, frameworks, and development tools for modern web development.&lt;/p&gt;
+&lt;h2&gt;JavaScript Fundamentals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;javascript-fundamentals&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#javascript-fundamentals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Official Documentation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;official-documentation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#official-documentation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MDN JavaScript Guide&lt;/a&gt; - Comprehensive JavaScript reference&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tc39.es/ecma262/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECMAScript Specification&lt;/a&gt; - Official language specification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Interactive Learning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;interactive-learning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#interactive-learning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://javascript.info/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript.info&lt;/a&gt; - Modern JavaScript tutorial&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;freeCodeCamp JavaScript&lt;/a&gt; - Free coding curriculum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codecademy.com/learn/introduction-to-javascript&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codecademy JavaScript Course&lt;/a&gt; - Interactive learning platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Books and Guides&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;books-and-guides&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#books-and-guides&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eloquentjavascript.net/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eloquent JavaScript&lt;/a&gt; - Free online book&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/getify/You-Dont-Know-JS&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You Don&amp;rsquo;t Know JS&lt;/a&gt; - Deep dive into JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oreilly.com/library/view/javascript-the-good/9780596517748/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript: The Good Parts&lt;/a&gt; - Classic JavaScript book&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Frontend Frameworks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;frontend-frameworks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#frontend-frameworks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;React&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;react&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#react&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://react.dev/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;React Official Documentation&lt;/a&gt; - Official React docs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://react.dev/learn&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;React Tutorial&lt;/a&gt; - Interactive React tutorial&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reactpatterns.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;React Patterns&lt;/a&gt; - Common React patterns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Vue.js&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;vuejs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vuejs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuejs.org/guide/introduction.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vue.js Documentation&lt;/a&gt; - Official Vue guide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vuemastery.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vue Mastery&lt;/a&gt; - Vue.js video courses&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nuxt.com/docs&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuxt.js Documentation&lt;/a&gt; - Vue.js framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Angular&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;angular&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#angular&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://angular.io/docs&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Angular Documentation&lt;/a&gt; - Official Angular docs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://angular-university.io/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Angular University&lt;/a&gt; - Advanced Angular courses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Backend Development&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;backend-development&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#backend-development&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Node.js&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;nodejs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nodejs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodejs.org/en/docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Node.js Documentation&lt;/a&gt; - Official Node.js docs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://expressjs.com/en/guide/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Express.js Documentation&lt;/a&gt; - Web application framework&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.nestjs.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NestJS Documentation&lt;/a&gt; - Progressive Node.js framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Databases&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;databases&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#databases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mongodb.github.io/node-mongodb-native/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MongoDB Node.js Driver&lt;/a&gt; - MongoDB integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sequelize.org/docs/v6/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sequelize Documentation&lt;/a&gt; - SQL ORM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prisma.io/docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prisma Documentation&lt;/a&gt; - Modern database toolkit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools and Ecosystem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tools-and-ecosystem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tools-and-ecosystem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Build Tools&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;build-tools&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#build-tools&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://webpack.js.org/concepts/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Webpack Documentation&lt;/a&gt; - Module bundler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vitejs.dev/guide/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vite Documentation&lt;/a&gt; - Next generation build tool&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://parceljs.org/docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parcel Documentation&lt;/a&gt; - Zero configuration build tool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Testing&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;testing&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#testing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jestjs.io/docs/getting-started&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jest Documentation&lt;/a&gt; - JavaScript testing framework&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.cypress.io/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cypress Documentation&lt;/a&gt; - End-to-end testing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://testing-library.com/docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Testing Library&lt;/a&gt; - Testing utilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Community and Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;community-and-resources&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#community-and-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Communities&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;communities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#communities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.com/invite/javascript&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript Discord&lt;/a&gt; - JavaScript community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/javascript/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/javascript&lt;/a&gt; - Reddit JavaScript community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/javascript&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stack Overflow JavaScript&lt;/a&gt; - Q&amp;amp;A platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;News and Updates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;news-and-updates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#news-and-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://javascriptweekly.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JavaScript Weekly&lt;/a&gt; - Weekly newsletter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodeweekly.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Node Weekly&lt;/a&gt; - Node.js news&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frontendfoc.us/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frontend Focus&lt;/a&gt; - Frontend development newsletter&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

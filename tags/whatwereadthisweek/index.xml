@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThirstyMinds – WhatWeReadThisWeek</title>
+    <link>//localhost:1313/tags/whatwereadthisweek/</link>
+    <description>Recent content in WhatWeReadThisWeek on ThirstyMinds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="//localhost:1313/tags/whatwereadthisweek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>What We Read This Week: Apr 6-12</title>
+      <link>//localhost:1313/blog/whatwereadthisweek/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/whatwereadthisweek/</guid>
+      <description>
+        
+        
+        &lt;p&gt;From AI to embedded devices, here are some interesting reads from the week.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reuters.com/business/finance/bessent-powell-warn-bank-ceos-about-anthropic-model-risks-bloomberg-news-reports-2026-04-10/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.reuters.com/business/finance/bessent-powell-warn-bank-ceos-about-anthropic-model-risks-bloomberg-news-reports-2026-04-10/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thehindu.com/sci-tech/technology/meta-transfers-top-engineers-into-new-ai-tooling-team/article70845848.ece&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.thehindu.com/sci-tech/technology/meta-transfers-top-engineers-into-new-ai-tooling-team/article70845848.ece&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indianexpress.com/article/technology/artificial-intelligence/free-ai-courses-from-anthropic-to-boost-your-skills-right-now-10629593/?ref=technology_pg&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://indianexpress.com/article/technology/artificial-intelligence/free-ai-courses-from-anthropic-to-boost-your-skills-right-now-10629593/?ref=technology_pg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://9to5linux.com/debians-apt-3-2-released-with-history-undo-redo-and-rollback-support&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://9to5linux.com/debians-apt-3-2-released-with-history-undo-redo-and-rollback-support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.allaboutcircuits.com/news/upbeat-technologys-risc-v-mcu-takes-flight-with-near-threshold-computing/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.allaboutcircuits.com/news/upbeat-technologys-risc-v-mcu-takes-flight-with-near-threshold-computing/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

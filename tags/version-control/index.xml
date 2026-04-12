@@ -1,0 +1,128 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThirstyMinds – Version Control</title>
+    <link>//localhost:1313/tags/version-control/</link>
+    <description>Recent content in Version Control on ThirstyMinds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="//localhost:1313/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Git Resources</title>
+      <link>//localhost:1313/learning-resources/git/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/learning-resources/git/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Essential Git resources for mastering version control, collaboration, and workflow management.&lt;/p&gt;
+&lt;h2&gt;Getting Started with Git&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;getting-started-with-git&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#getting-started-with-git&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Official Documentation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;official-documentation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#official-documentation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/doc&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Documentation&lt;/a&gt; - Official Git documentation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pro Git Book&lt;/a&gt; - Free comprehensive Git book&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Reference&lt;/a&gt; - Complete command reference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Interactive Tutorials&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;interactive-tutorials&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#interactive-tutorials&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learngitbranching.js.org/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn Git Branching&lt;/a&gt; - Interactive Git tutorial&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lab.github.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Learning Lab&lt;/a&gt; - Free GitHub courses&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atlassian Git Tutorial&lt;/a&gt; - Visual Git tutorials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Quick References&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;quick-references&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#quick-references&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://education.github.com/git-cheat-sheet-education.pdf&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Cheat Sheet&lt;/a&gt; - PDF cheat sheet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ndpsoftware.com/git-cheatsheet.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual Git Cheat Sheet&lt;/a&gt; - Interactive cheat sheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Git Workflows&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;git-workflows&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#git-workflows&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Common Workflows&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;common-workflows&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#common-workflows&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Flow Workflow&lt;/a&gt; - Feature branching model&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://guides.github.com/introduction/flow/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Flow&lt;/a&gt; - Simple workflow&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/topics/gitlab_flow.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitLab Flow&lt;/a&gt; - Comprehensive workflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Branching Strategies&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;branching-strategies&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#branching-strategies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trunkbaseddevelopment.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Branching Models&lt;/a&gt; - Trunk-based development&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/comparing-workflows/release-flow-workflow&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Management&lt;/a&gt; - Release flow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Advanced Git&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advanced-git&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#advanced-git&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Advanced Commands&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advanced-commands&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#advanced-commands&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Internals&lt;/a&gt; - Understanding Git internals&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rewriting History&lt;/a&gt; - Safe history rewriting&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Tools-Submodules&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Submodules and Subtrees&lt;/a&gt; - Managing dependencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Performance and Optimization&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;performance-and-optimization&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#performance-and-optimization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Hooks&lt;/a&gt; - Automating workflows&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/gitattributes&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Attributes&lt;/a&gt; - File-specific settings&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-lfs.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Large File Storage&lt;/a&gt; - Handling large files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Git Services and Platforms&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;git-services-and-platforms&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#git-services-and-platforms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;GitHub&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;github&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#github&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Documentation&lt;/a&gt; - Complete GitHub docs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/actions&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Actions&lt;/a&gt; - CI/CD automation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; - Static site hosting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;GitLab&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gitlab&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gitlab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitLab Documentation&lt;/a&gt; - Comprehensive GitLab docs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/ci/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitLab CI/CD&lt;/a&gt; - Continuous integration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bitbucket&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;bitbucket&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bitbucket&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.atlassian.com/bitbucket-cloud/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitbucket Documentation&lt;/a&gt; - Bitbucket guides&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitbucket Pipelines&lt;/a&gt; - CI/CD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;GUI Clients and Tools&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gui-clients-and-tools&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gui-clients-and-tools&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Desktop Clients&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;desktop-clients&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#desktop-clients&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://desktop.github.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Desktop&lt;/a&gt; - Official GitHub client&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitkraken.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitKraken&lt;/a&gt; - Powerful Git GUI&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sourcetreeapp.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SourceTree&lt;/a&gt; - Free Git GUI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;IDE Integration&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ide-integration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ide-integration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/docs/editor/versioncontrol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VS Code Git Integration&lt;/a&gt; - Built-in Git support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/help/idea/using-git-integration.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IntelliJ IDEA Git&lt;/a&gt; - Git in IntelliJ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Best Practices and Tips&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;best-practices-and-tips&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#best-practices-and-tips&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Collaboration Best Practices&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;collaboration-best-practices&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#collaboration-best-practices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.conventionalcommits.org/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Commit Message Guidelines&lt;/a&gt; - Standard commit format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://google.github.io/eng-practices/review/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Review Process&lt;/a&gt; - Review guidelines&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/merging-vs-rebasing&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Merge vs Rebase&lt;/a&gt; - When to use each&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Troubleshooting&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;troubleshooting&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#troubleshooting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/gitfaq&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Common Git Problems&lt;/a&gt; - FAQ and solutions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undoing Things&lt;/a&gt; - Fixing mistakes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Community and Learning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;community-and-learning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#community-and-learning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Communities&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;communities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#communities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/community&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Community&lt;/a&gt; - Official community resources&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/git/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/git&lt;/a&gt; - Reddit Git community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/git&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stack Overflow Git&lt;/a&gt; - Git Q&amp;amp;A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Blogs and Articles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;blogs-and-articles&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#blogs-and-articles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.blog/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Blog&lt;/a&gt; - Official GitHub blog&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/blog&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git SCM Blog&lt;/a&gt; - Official Git blog&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
