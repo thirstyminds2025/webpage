@@ -5,7 +5,7 @@
     <description>Recent content in Micro-Blog on ThirstyMinds</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,25 @@
         
       
     
+    
+    <item>
+      <title>What We Read This Week: Apr 13-19</title>
+      <link>//localhost:1313/blog/whatwereadthisweek2/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/whatwereadthisweek2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;From software updates to humanoid robots&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://9to5linux.com/canonical-releases-mir-2-26-with-initial-rust-implementation-of-wayland-frontend&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://9to5linux.com/canonical-releases-mir-2-26-with-initial-rust-implementation-of-wayland-frontend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://9to5linux.com/linux-kernel-7-0-officially-released-this-is-whats-new&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://9to5linux.com/linux-kernel-7-0-officially-released-this-is-whats-new&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.thehindu.com/sci-tech/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances/article70880082.ece&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.xda-developers.com/linux-71-just-killed-one-of-dual-bootings-biggest-headaches/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.xda-developers.com/linux-71-just-killed-one-of-dual-bootings-biggest-headaches/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
     
     <item>
       <title>What We Read This Week: Apr 6-12</title>
